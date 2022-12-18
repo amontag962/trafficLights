@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21225" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
-    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <device id="retina6_0" orientation="portrait" appearance="light"/>
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21207"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
@@ -13,26 +13,26 @@
             <objects>
                 <viewController id="01J-lp-oVM" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="6" translatesAutoresizingMaskIntoConstraints="NO" id="VdN-Gy-qd5">
-                                <rect key="frame" x="148" y="197" width="118.5" height="119"/>
+                                <rect key="frame" x="136" y="196" width="118.33333333333331" height="118.33333333333331"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="The" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="Db7-Ai-e0e">
-                                        <rect key="frame" x="27.5" y="0.0" width="63.5" height="41"/>
+                                        <rect key="frame" x="27.333333333333346" y="0.0" width="63.333333333333343" height="41"/>
                                         <fontDescription key="fontDescription" name="Menlo-Regular" family="Menlo" pointSize="35"/>
                                         <color key="textColor" systemColor="systemRedColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Traffic" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="cAy-qY-R08">
-                                        <rect key="frame" x="0.0" y="47" width="118.5" height="33"/>
+                                        <rect key="frame" x="0.0" y="47" width="118.33333333333333" height="32.666666666666657"/>
                                         <fontDescription key="fontDescription" name="Menlo-Regular" family="Menlo" pointSize="28"/>
                                         <color key="textColor" systemColor="systemYellowColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Lighter" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="rXd-6q-txV">
-                                        <rect key="frame" x="0.0" y="86" width="118.5" height="33"/>
+                                        <rect key="frame" x="0.0" y="85.666666666666686" width="118.33333333333333" height="32.666666666666657"/>
                                         <fontDescription key="fontDescription" name="Menlo-Regular" family="Menlo" pointSize="28"/>
                                         <color key="textColor" systemColor="systemGreenColor"/>
                                         <nil key="highlightedColor"/>
